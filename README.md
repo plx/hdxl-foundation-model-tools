@@ -1,2 +1,3 @@
 # hdxl-foundation-model-tools
-Basic experiments with "tools" for the new foundation models framework.
+
+This repository contains some basic experiments with the `Tool` concept from Apple's new foundation models framework.
